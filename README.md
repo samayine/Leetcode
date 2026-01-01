@@ -11,4 +11,8 @@ repo for problem-solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samayine/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/samayine/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
