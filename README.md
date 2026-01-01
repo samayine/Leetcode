@@ -1,6 +1,5 @@
 # Leetcode
-repo for problem-solving
-
+leetcode-problem-solving
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
