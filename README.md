@@ -23,4 +23,8 @@ leetcode-problem-solving
 | ------- |
 | [0027-remove-element](https://github.com/samayine/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/samayine/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
