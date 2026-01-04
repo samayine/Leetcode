@@ -9,6 +9,7 @@ leetcode-problem-solving
 | [0027-remove-element](https://github.com/samayine/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
+| [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ leetcode-problem-solving
 | ------- |
 | [0009-palindrome-number](https://github.com/samayine/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
 | ------- |
