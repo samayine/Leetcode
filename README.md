@@ -19,6 +19,7 @@ leetcode-problem-solving
 | ------- |
 | [0009-palindrome-number](https://github.com/samayine/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
+| [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
@@ -38,4 +39,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samayine/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
