@@ -14,6 +14,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samayine/Leetcode/tree/master/0001-two-sum) |
+| [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samayine/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 ## String Matching
 |  |
 | ------- |
