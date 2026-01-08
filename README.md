@@ -46,6 +46,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samayine/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Tree
 |  |
