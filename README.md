@@ -10,6 +10,7 @@ leetcode-problem-solving
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Tree
 |  |
 | ------- |
