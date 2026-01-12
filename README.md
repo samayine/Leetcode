@@ -9,6 +9,7 @@ leetcode-problem-solving
 | [0027-remove-element](https://github.com/samayine/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
@@ -23,6 +24,7 @@ leetcode-problem-solving
 | [0009-palindrome-number](https://github.com/samayine/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
+| [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
@@ -74,4 +76,8 @@ leetcode-problem-solving
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/samayine/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
