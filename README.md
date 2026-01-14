@@ -80,4 +80,12 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
