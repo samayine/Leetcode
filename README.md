@@ -10,6 +10,7 @@ leetcode-problem-solving
 | [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
@@ -101,4 +102,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
