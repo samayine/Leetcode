@@ -7,6 +7,7 @@ leetcode-problem-solving
 | ------- |
 | [0001-two-sum](https://github.com/samayine/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/samayine/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
@@ -96,4 +97,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
