@@ -27,6 +27,7 @@ leetcode-problem-solving
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/samayine/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/samayine/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
@@ -91,10 +92,12 @@ leetcode-problem-solving
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/samayine/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/samayine/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
