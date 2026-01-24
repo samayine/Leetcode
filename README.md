@@ -62,6 +62,7 @@ leetcode-problem-solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samayine/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -116,6 +117,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
