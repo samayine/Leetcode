@@ -11,6 +11,7 @@ leetcode-problem-solving
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ leetcode-problem-solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
