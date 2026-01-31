@@ -22,6 +22,7 @@ leetcode-problem-solving
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ leetcode-problem-solving
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
+| [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
