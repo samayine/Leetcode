@@ -4,19 +4,19 @@
  */
 var findMissingElements = function(nums) {
     if(nums.length == 0) return [];
-    nums.sort((a,b) => a-b);
+
+    const set = new Set(nums);
+    
     const missing = [];
 
-    for(let i=0; i<nums.length - 1; i++){
-        let curr = nums[i];
-        let next = nums[i+1];
+    const min = Math.min(...nums);
+    const max = Math.max(...nums);
 
-        if((next - curr) > 1){
-            for(let val = curr + 1; val < next; val++){
-                missing.push(val);
-            }
+    for(let val = min+1; val<max;val++){
+        if(!set.has(val)){
+            missing.push(val);
         }
-        }
-     return missing;
+    }
+    return missing;
 
 };
