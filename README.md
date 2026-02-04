@@ -17,6 +17,7 @@ leetcode-problem-solving
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
@@ -32,6 +33,7 @@ leetcode-problem-solving
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
@@ -56,6 +58,7 @@ leetcode-problem-solving
 | [0125-valid-palindrome](https://github.com/samayine/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/samayine/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Database
@@ -135,6 +138,7 @@ leetcode-problem-solving
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -142,6 +146,7 @@ leetcode-problem-solving
 | ------- |
 | [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
