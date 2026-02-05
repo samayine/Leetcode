@@ -20,6 +20,7 @@ leetcode-problem-solving
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
+| [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -38,6 +39,7 @@ leetcode-problem-solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
