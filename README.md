@@ -20,6 +20,7 @@ leetcode-problem-solving
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
@@ -37,6 +38,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -164,6 +166,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -171,4 +174,8 @@ leetcode-problem-solving
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
