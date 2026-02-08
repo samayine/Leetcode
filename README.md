@@ -14,6 +14,7 @@ leetcode-problem-solving
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samayine/Leetcode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ leetcode-problem-solving
 | ------- |
 | [0001-two-sum](https://github.com/samayine/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samayine/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
@@ -145,6 +147,7 @@ leetcode-problem-solving
 | ------- |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samayine/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
@@ -181,4 +184,12 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
