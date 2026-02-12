@@ -71,6 +71,7 @@ leetcode-problem-solving
 | [0344-reverse-string](https://github.com/samayine/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/samayine/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Database
@@ -88,6 +89,7 @@ leetcode-problem-solving
 | [0125-valid-palindrome](https://github.com/samayine/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/samayine/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/samayine/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/samayine/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -104,6 +106,7 @@ leetcode-problem-solving
 | [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/samayine/Leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samayine/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
