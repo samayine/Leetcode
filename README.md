@@ -185,6 +185,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/samayine/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Stack
 |  |
 | ------- |
