@@ -108,6 +108,7 @@ leetcode-problem-solving
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3110-score-of-a-string](https://github.com/samayine/Leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -195,6 +196,7 @@ leetcode-problem-solving
 | [0693-binary-number-with-alternating-bits](https://github.com/samayine/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/samayine/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
 | ------- |
@@ -204,6 +206,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
