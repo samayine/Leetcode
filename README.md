@@ -110,6 +110,7 @@ leetcode-problem-solving
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3110-score-of-a-string](https://github.com/samayine/Leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -243,4 +244,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samayine/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
