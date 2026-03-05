@@ -3,6 +3,7 @@
  * @return {number}
  */
 var minOperations = function(s) {
+    //patternA: 010101...
     let patternA = 0;
 
     for(let i=0; i<s.length; i++){
