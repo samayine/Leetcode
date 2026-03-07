@@ -117,6 +117,7 @@ leetcode-problem-solving
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/samayine/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/samayine/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/samayine/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3110-score-of-a-string](https://github.com/samayine/Leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -133,6 +134,7 @@ leetcode-problem-solving
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samayine/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/samayine/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +241,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/samayine/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/samayine/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Trie
 |  |
 | ------- |
