@@ -53,6 +53,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/samayine/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samayine/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samayine/Leetcode/tree/master/0500-keyboard-row) |
@@ -110,6 +111,7 @@ leetcode-problem-solving
 | [0205-isomorphic-strings](https://github.com/samayine/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samayine/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/samayine/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/samayine/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samayine/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/samayine/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
@@ -240,6 +242,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/samayine/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samayine/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sliding Window
