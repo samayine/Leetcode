@@ -10,6 +10,7 @@ leetcode-problem-solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samayine/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samayine/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -270,6 +271,7 @@ leetcode-problem-solving
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
