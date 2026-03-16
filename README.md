@@ -13,6 +13,7 @@ leetcode-problem-solving
 | [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
@@ -217,6 +218,7 @@ leetcode-problem-solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
@@ -272,6 +274,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
