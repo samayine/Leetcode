@@ -274,6 +274,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/samayine/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
