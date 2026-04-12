@@ -48,6 +48,7 @@ leetcode-problem-solving
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samayine/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -158,6 +159,7 @@ leetcode-problem-solving
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/samayine/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/samayine/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
