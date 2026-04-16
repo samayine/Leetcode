@@ -47,6 +47,7 @@ leetcode-problem-solving
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samayine/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/samayine/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samayine/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
