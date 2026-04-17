@@ -55,6 +55,7 @@ leetcode-problem-solving
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2574-left-and-right-sum-differences](https://github.com/samayine/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -126,6 +127,7 @@ leetcode-problem-solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/samayine/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Database
 |  |
@@ -257,6 +259,7 @@ leetcode-problem-solving
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samayine/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/samayine/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -267,6 +270,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
