@@ -111,6 +111,7 @@ leetcode-problem-solving
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/samayine/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
