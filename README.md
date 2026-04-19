@@ -35,6 +35,7 @@ leetcode-problem-solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/samayine/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/samayine/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samayine/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
