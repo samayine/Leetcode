@@ -113,6 +113,7 @@ leetcode-problem-solving
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samayine/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/samayine/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/samayine/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -176,6 +177,7 @@ leetcode-problem-solving
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/samayine/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1844-replace-all-digits-with-characters](https://github.com/samayine/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/samayine/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1903-largest-odd-number-in-string](https://github.com/samayine/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/samayine/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -359,6 +361,7 @@ leetcode-problem-solving
 | ------- |
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/samayine/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samayine/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Matrix
 |  |
