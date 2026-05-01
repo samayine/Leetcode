@@ -60,6 +60,7 @@ leetcode-problem-solving
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samayine/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2574-left-and-right-sum-differences](https://github.com/samayine/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/samayine/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -100,6 +101,7 @@ leetcode-problem-solving
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/samayine/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/samayine/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
@@ -142,6 +144,7 @@ leetcode-problem-solving
 | [0392-is-subsequence](https://github.com/samayine/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Database
@@ -283,6 +286,7 @@ leetcode-problem-solving
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samayine/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/samayine/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
