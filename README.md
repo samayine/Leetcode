@@ -45,6 +45,7 @@ leetcode-problem-solving
 | [0575-distribute-candies](https://github.com/samayine/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/samayine/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0978-longest-turbulent-subarray](https://github.com/samayine/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
