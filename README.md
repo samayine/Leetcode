@@ -45,6 +45,7 @@ leetcode-problem-solving
 | [0575-distribute-candies](https://github.com/samayine/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/samayine/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/samayine/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0978-longest-turbulent-subarray](https://github.com/samayine/Leetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -129,6 +130,7 @@ leetcode-problem-solving
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samayine/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/samayine/Leetcode/tree/master/1390-four-divisors) |
