@@ -8,7 +8,7 @@ class Solution:
         res = []
 
         for num in arr2:
-            if num in arr1:
+            if num in count:
                 res.extend([num] * count[num])
                 del count[num]
 
