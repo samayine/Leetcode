@@ -1,8 +1,9 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        pairs = zip(heights, names)
+        pairs = []
+        for i in range(len(names)):
+            pairs.append((heights[i], names[i]))
 
-        sorted_pairs = sorted(pairs, reverse=True)
-        result = [name for height, name in sorted_pairs]
+        pairs.sort(reverse=True)
 
-        return result
+        return [name for height, name in pairs]
