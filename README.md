@@ -45,6 +45,7 @@ leetcode-problem-solving
 | [0575-distribute-candies](https://github.com/samayine/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/samayine/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/samayine/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -167,6 +168,7 @@ leetcode-problem-solving
 | [0557-reverse-words-in-a-string-iii](https://github.com/samayine/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/samayine/Leetcode/tree/master/0763-partition-labels) |
+| [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
@@ -312,6 +314,7 @@ leetcode-problem-solving
 | [0451-sort-characters-by-frequency](https://github.com/samayine/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samayine/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
