@@ -52,6 +52,7 @@ leetcode-problem-solving
 | [0944-delete-columns-to-make-sorted](https://github.com/samayine/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0978-longest-turbulent-subarray](https://github.com/samayine/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/samayine/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samayine/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -319,6 +320,7 @@ leetcode-problem-solving
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/samayine/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samayine/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
