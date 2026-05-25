@@ -62,6 +62,7 @@ leetcode-problem-solving
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samayine/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/samayine/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/samayine/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/samayine/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -467,6 +468,7 @@ leetcode-problem-solving
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/samayine/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/samayine/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Counting Sort
