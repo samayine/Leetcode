@@ -45,6 +45,7 @@ leetcode-problem-solving
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/samayine/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
@@ -139,6 +140,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -319,6 +321,7 @@ leetcode-problem-solving
 | [0451-sort-characters-by-frequency](https://github.com/samayine/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/samayine/Leetcode/tree/master/1200-minimum-absolute-difference) |
