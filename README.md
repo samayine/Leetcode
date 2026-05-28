@@ -68,6 +68,7 @@ leetcode-problem-solving
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samayine/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -475,6 +476,7 @@ leetcode-problem-solving
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/samayine/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/samayine/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Counting Sort
