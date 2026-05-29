@@ -70,6 +70,7 @@ leetcode-problem-solving
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samayine/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1854-maximum-population-year](https://github.com/samayine/Leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -402,6 +403,7 @@ leetcode-problem-solving
 | [1512-number-of-good-pairs](https://github.com/samayine/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/samayine/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1854-maximum-population-year](https://github.com/samayine/Leetcode/tree/master/1854-maximum-population-year) |
 | [2833-furthest-point-from-origin](https://github.com/samayine/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
@@ -477,6 +479,7 @@ leetcode-problem-solving
 | [1480-running-sum-of-1d-array](https://github.com/samayine/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/samayine/Leetcode/tree/master/1854-maximum-population-year) |
 | [2574-left-and-right-sum-differences](https://github.com/samayine/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Counting Sort
