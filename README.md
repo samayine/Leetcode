@@ -48,6 +48,7 @@ leetcode-problem-solving
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/samayine/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/samayine/Leetcode/tree/master/0848-shifting-letters) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
@@ -219,6 +220,7 @@ leetcode-problem-solving
 | [0709-to-lower-case](https://github.com/samayine/Leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/samayine/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/samayine/Leetcode/tree/master/0763-partition-labels) |
+| [0848-shifting-letters](https://github.com/samayine/Leetcode/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/samayine/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/samayine/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -480,6 +482,7 @@ leetcode-problem-solving
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samayine/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/samayine/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/samayine/Leetcode/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/samayine/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
