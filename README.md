@@ -227,6 +227,7 @@ leetcode-problem-solving
 | [1108-defanging-an-ip-address](https://github.com/samayine/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/samayine/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -488,6 +489,7 @@ leetcode-problem-solving
 | [0238-product-of-array-except-self](https://github.com/samayine/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/samayine/Leetcode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/samayine/Leetcode/tree/master/0848-shifting-letters) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/samayine/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/samayine/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
