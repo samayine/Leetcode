@@ -91,6 +91,7 @@ leetcode-problem-solving
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/samayine/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -496,6 +497,7 @@ leetcode-problem-solving
 | [1854-maximum-population-year](https://github.com/samayine/Leetcode/tree/master/1854-maximum-population-year) |
 | [2574-left-and-right-sum-differences](https://github.com/samayine/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3903-smallest-stable-index-i](https://github.com/samayine/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
