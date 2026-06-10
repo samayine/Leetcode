@@ -49,6 +49,7 @@ leetcode-problem-solving
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/samayine/Leetcode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0848-shifting-letters](https://github.com/samayine/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -461,6 +462,7 @@ leetcode-problem-solving
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
