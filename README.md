@@ -74,6 +74,7 @@ leetcode-problem-solving
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/samayine/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/samayine/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/samayine/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samayine/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/samayine/Leetcode/tree/master/1854-maximum-population-year) |
@@ -465,6 +466,7 @@ leetcode-problem-solving
 | [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/samayine/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Heap (Priority Queue)
