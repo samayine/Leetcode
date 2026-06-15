@@ -61,6 +61,7 @@ leetcode-problem-solving
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/samayine/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/samayine/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samayine/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -388,6 +389,7 @@ leetcode-problem-solving
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/samayine/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/samayine/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -466,6 +468,7 @@ leetcode-problem-solving
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/samayine/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/samayine/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/samayine/Leetcode/tree/master/1672-richest-customer-wealth) |
