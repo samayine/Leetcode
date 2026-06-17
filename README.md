@@ -58,6 +58,7 @@ leetcode-problem-solving
 | [0941-valid-mountain-array](https://github.com/samayine/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/samayine/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0978-longest-turbulent-subarray](https://github.com/samayine/Leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [0999-available-captures-for-rook](https://github.com/samayine/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/samayine/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/samayine/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -390,6 +391,7 @@ leetcode-problem-solving
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/samayine/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/samayine/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/samayine/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -469,6 +471,7 @@ leetcode-problem-solving
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/samayine/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/samayine/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/samayine/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samayine/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
