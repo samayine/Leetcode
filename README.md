@@ -17,6 +17,7 @@ leetcode-problem-solving
 | [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/samayine/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
@@ -107,6 +108,7 @@ leetcode-problem-solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/samayine/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/samayine/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/samayine/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samayine/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/samayine/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -469,6 +471,7 @@ leetcode-problem-solving
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/samayine/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/samayine/Leetcode/tree/master/0999-available-captures-for-rook) |
