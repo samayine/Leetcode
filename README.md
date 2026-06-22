@@ -90,6 +90,7 @@ leetcode-problem-solving
 | [2089-find-target-indices-after-sorting-array](https://github.com/samayine/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/samayine/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
@@ -143,6 +144,7 @@ leetcode-problem-solving
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/samayine/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/samayine/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
@@ -403,6 +405,7 @@ leetcode-problem-solving
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/samayine/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -485,6 +488,7 @@ leetcode-problem-solving
 | [1672-richest-customer-wealth](https://github.com/samayine/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/samayine/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/samayine/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/samayine/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
