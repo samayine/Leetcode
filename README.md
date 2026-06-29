@@ -186,6 +186,7 @@ leetcode-problem-solving
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samayine/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/samayine/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/samayine/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samayine/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/samayine/Leetcode/tree/master/0189-rotate-array) |
@@ -325,6 +326,7 @@ leetcode-problem-solving
 | ------- |
 | [0002-add-two-numbers](https://github.com/samayine/Leetcode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/samayine/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/samayine/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -339,6 +341,7 @@ leetcode-problem-solving
 | [0015-3sum](https://github.com/samayine/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samayine/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/samayine/Leetcode/tree/master/0217-contains-duplicate) |
@@ -419,6 +422,7 @@ leetcode-problem-solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samayine/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/samayine/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -540,4 +544,8 @@ leetcode-problem-solving
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/samayine/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samayine/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
