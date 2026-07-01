@@ -51,6 +51,7 @@ leetcode-problem-solving
 | [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/samayine/Leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/samayine/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0817-linked-list-components](https://github.com/samayine/Leetcode/tree/master/0817-linked-list-components) |
 | [0848-shifting-letters](https://github.com/samayine/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/samayine/Leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -132,6 +133,7 @@ leetcode-problem-solving
 | [0575-distribute-candies](https://github.com/samayine/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/samayine/Leetcode/tree/master/0763-partition-labels) |
+| [0817-linked-list-components](https://github.com/samayine/Leetcode/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/samayine/Leetcode/tree/master/0859-buddy-strings) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/samayine/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -329,6 +331,7 @@ leetcode-problem-solving
 | [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/samayine/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0817-linked-list-components](https://github.com/samayine/Leetcode/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
