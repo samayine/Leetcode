@@ -202,6 +202,7 @@ leetcode-problem-solving
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/samayine/Leetcode/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/samayine/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
@@ -259,6 +260,7 @@ leetcode-problem-solving
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/samayine/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/samayine/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2833-furthest-point-from-origin](https://github.com/samayine/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -402,6 +404,7 @@ leetcode-problem-solving
 | ------- |
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
