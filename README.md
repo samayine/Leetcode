@@ -263,6 +263,7 @@ leetcode-problem-solving
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/samayine/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2833-furthest-point-from-origin](https://github.com/samayine/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/samayine/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -407,6 +408,7 @@ leetcode-problem-solving
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/samayine/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -420,6 +422,7 @@ leetcode-problem-solving
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/samayine/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/samayine/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
