@@ -87,6 +87,7 @@ leetcode-problem-solving
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/samayine/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samayine/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samayine/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -421,6 +422,7 @@ leetcode-problem-solving
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/samayine/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/samayine/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/samayine/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/samayine/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -485,6 +487,7 @@ leetcode-problem-solving
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samayine/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/samayine/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/samayine/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
