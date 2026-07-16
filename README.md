@@ -42,6 +42,7 @@ leetcode-problem-solving
 | [0377-combination-sum-iv](https://github.com/samayine/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/samayine/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/samayine/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/samayine/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samayine/Leetcode/tree/master/0500-keyboard-row) |
@@ -385,6 +386,7 @@ leetcode-problem-solving
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samayine/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
@@ -407,6 +409,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/samayine/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -431,6 +434,7 @@ leetcode-problem-solving
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -571,4 +575,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/samayine/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
