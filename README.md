@@ -411,6 +411,7 @@ leetcode-problem-solving
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/samayine/Leetcode/tree/master/0901-online-stock-span) |
 | [2000-reverse-prefix-of-word](https://github.com/samayine/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/samayine/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -436,6 +437,7 @@ leetcode-problem-solving
 | ------- |
 | [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/samayine/Leetcode/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -570,10 +572,12 @@ leetcode-problem-solving
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/samayine/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/samayine/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/samayine/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/samayine/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
