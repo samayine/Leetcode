@@ -166,6 +166,7 @@ leetcode-problem-solving
 | [0202-happy-number](https://github.com/samayine/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/samayine/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/samayine/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/samayine/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/samayine/Leetcode/tree/master/0509-fibonacci-number) |
@@ -349,6 +350,7 @@ leetcode-problem-solving
 | [0203-remove-linked-list-elements](https://github.com/samayine/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/samayine/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/samayine/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -403,6 +405,7 @@ leetcode-problem-solving
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/samayine/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/samayine/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/samayine/Leetcode/tree/master/0868-binary-gap) |
