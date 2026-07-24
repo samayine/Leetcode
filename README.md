@@ -91,6 +91,7 @@ leetcode-problem-solving
 | [2073-time-needed-to-buy-tickets](https://github.com/samayine/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samayine/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samayine/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/samayine/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -147,6 +148,7 @@ leetcode-problem-solving
 | [1763-longest-nice-substring](https://github.com/samayine/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/samayine/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/samayine/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
@@ -352,6 +354,7 @@ leetcode-problem-solving
 | [0326-power-of-three](https://github.com/samayine/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/samayine/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -380,6 +383,7 @@ leetcode-problem-solving
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/samayine/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samayine/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samayine/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -547,6 +551,7 @@ leetcode-problem-solving
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Number Theory
 |  |
