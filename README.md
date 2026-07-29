@@ -163,6 +163,7 @@ leetcode-problem-solving
 | [0002-add-two-numbers](https://github.com/samayine/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/samayine/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/samayine/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/samayine/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/samayine/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/samayine/Leetcode/tree/master/0202-happy-number) |
@@ -353,6 +354,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samayine/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/samayine/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/samayine/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/samayine/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samayine/Leetcode/tree/master/0206-reverse-linked-list) |
