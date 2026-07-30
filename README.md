@@ -104,6 +104,7 @@ leetcode-problem-solving
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/samayine/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/samayine/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
@@ -156,6 +157,7 @@ leetcode-problem-solving
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/samayine/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -363,6 +365,7 @@ leetcode-problem-solving
 | [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/samayine/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -563,6 +566,7 @@ leetcode-problem-solving
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
