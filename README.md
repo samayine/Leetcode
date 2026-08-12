@@ -47,6 +47,7 @@ leetcode-problem-solving
 | [0485-max-consecutive-ones](https://github.com/samayine/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samayine/Leetcode/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samayine/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/samayine/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/samayine/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samayine/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -416,6 +417,7 @@ leetcode-problem-solving
 | [0349-intersection-of-two-arrays](https://github.com/samayine/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samayine/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/samayine/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/samayine/Leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samayine/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
