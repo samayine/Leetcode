@@ -316,6 +316,7 @@ leetcode-problem-solving
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -324,6 +325,7 @@ leetcode-problem-solving
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -332,11 +334,13 @@ leetcode-problem-solving
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
