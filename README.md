@@ -316,6 +316,7 @@ leetcode-problem-solving
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/samayine/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/samayine/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
@@ -326,6 +327,7 @@ leetcode-problem-solving
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/samayine/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/samayine/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
@@ -343,6 +345,7 @@ leetcode-problem-solving
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/samayine/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/samayine/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
@@ -452,6 +455,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/samayine/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/samayine/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/samayine/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
