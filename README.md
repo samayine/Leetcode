@@ -327,6 +327,7 @@ leetcode-problem-solving
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/samayine/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/samayine/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -362,6 +363,7 @@ leetcode-problem-solving
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/samayine/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/samayine/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Geometry
 |  |
 | ------- |
