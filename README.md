@@ -323,6 +323,7 @@ leetcode-problem-solving
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -338,6 +339,7 @@ leetcode-problem-solving
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -359,6 +361,7 @@ leetcode-problem-solving
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -659,4 +662,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/samayine/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
