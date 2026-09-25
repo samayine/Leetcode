@@ -249,6 +249,7 @@ leetcode-problem-solving
 | [0151-reverse-words-in-a-string](https://github.com/samayine/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/samayine/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samayine/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/samayine/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/samayine/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samayine/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -324,6 +325,7 @@ leetcode-problem-solving
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -340,6 +342,7 @@ leetcode-problem-solving
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -363,6 +366,7 @@ leetcode-problem-solving
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -554,6 +558,7 @@ leetcode-problem-solving
 | [0077-combinations](https://github.com/samayine/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/samayine/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
