@@ -242,6 +242,7 @@ leetcode-problem-solving
 | [0013-roman-to-integer](https://github.com/samayine/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/samayine/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/samayine/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/samayine/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samayine/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/samayine/Leetcode/tree/master/0058-length-of-last-word) |
@@ -299,6 +300,7 @@ leetcode-problem-solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/samayine/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/samayine/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/samayine/Leetcode/tree/master/0213-house-robber-ii) |
@@ -558,6 +560,7 @@ leetcode-problem-solving
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/samayine/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/samayine/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/samayine/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
@@ -693,4 +696,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/samayine/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
