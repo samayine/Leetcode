@@ -331,6 +331,7 @@ leetcode-problem-solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/samayine/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -349,6 +350,7 @@ leetcode-problem-solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/samayine/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -360,6 +362,7 @@ leetcode-problem-solving
 | [0100-same-tree](https://github.com/samayine/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/samayine/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/samayine/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -376,6 +379,7 @@ leetcode-problem-solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/samayine/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samayine/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -688,6 +692,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/samayine/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Lifting
 |  |
 | ------- |
