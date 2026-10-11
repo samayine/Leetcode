@@ -328,6 +328,7 @@ leetcode-problem-solving
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
@@ -376,6 +377,7 @@ leetcode-problem-solving
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samayine/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/samayine/Leetcode/tree/master/0337-house-robber-iii) |
@@ -492,6 +494,7 @@ leetcode-problem-solving
 | [0143-reorder-list](https://github.com/samayine/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/samayine/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/samayine/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/samayine/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -661,6 +664,7 @@ leetcode-problem-solving
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/samayine/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/samayine/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -692,6 +696,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/samayine/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Lifting
 |  |
@@ -705,4 +710,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/samayine/Leetcode/tree/master/0022-generate-parentheses) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
