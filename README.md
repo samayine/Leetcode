@@ -172,6 +172,7 @@ leetcode-problem-solving
 | [0013-roman-to-integer](https://github.com/samayine/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/samayine/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/samayine/Leetcode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/samayine/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/samayine/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/samayine/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
@@ -474,6 +475,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/samayine/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/samayine/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -573,6 +575,7 @@ leetcode-problem-solving
 | [0046-permutations](https://github.com/samayine/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/samayine/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/samayine/Leetcode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/samayine/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/samayine/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
