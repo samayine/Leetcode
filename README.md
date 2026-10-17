@@ -113,6 +113,7 @@ leetcode-problem-solving
 | [3643-flip-square-submatrix-vertically](https://github.com/samayine/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/samayine/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3903-smallest-stable-index-i](https://github.com/samayine/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -454,6 +455,7 @@ leetcode-problem-solving
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/samayine/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/samayine/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -471,6 +473,7 @@ leetcode-problem-solving
 | [2089-find-target-indices-after-sorting-array](https://github.com/samayine/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/samayine/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/samayine/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/samayine/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -538,6 +541,7 @@ leetcode-problem-solving
 | [0215-kth-largest-element-in-an-array](https://github.com/samayine/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/samayine/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/samayine/Leetcode/tree/master/1763-longest-nice-substring) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/samayine/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
 | ------- |
@@ -631,6 +635,7 @@ leetcode-problem-solving
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samayine/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/samayine/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/samayine/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Enumeration
 |  |
 | ------- |
