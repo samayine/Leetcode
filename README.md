@@ -192,6 +192,7 @@ leetcode-problem-solving
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/samayine/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/samayine/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/samayine/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/samayine/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -587,6 +588,7 @@ leetcode-problem-solving
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/samayine/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
 | ------- |
