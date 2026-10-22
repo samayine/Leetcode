@@ -99,6 +99,7 @@ leetcode-problem-solving
 | [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samayine/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/samayine/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/samayine/Leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/samayine/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -319,6 +320,7 @@ leetcode-problem-solving
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samayine/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/samayine/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/samayine/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Tree
 |  |
@@ -493,6 +495,7 @@ leetcode-problem-solving
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/samayine/Leetcode/tree/master/1763-longest-nice-substring) |
+| [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -588,6 +591,7 @@ leetcode-problem-solving
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/samayine/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/samayine/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
@@ -726,4 +730,8 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/samayine/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
