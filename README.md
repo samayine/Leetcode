@@ -6,6 +6,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samayine/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/samayine/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/samayine/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/samayine/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/samayine/Leetcode/tree/master/0015-3sum) |
@@ -462,6 +463,7 @@ leetcode-problem-solving
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samayine/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/samayine/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samayine/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/samayine/Leetcode/tree/master/0268-missing-number) |
@@ -538,6 +540,7 @@ leetcode-problem-solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samayine/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
