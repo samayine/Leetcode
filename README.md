@@ -112,6 +112,7 @@ leetcode-problem-solving
 | [3028-ant-on-the-boundary](https://github.com/samayine/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3537-fill-a-special-grid](https://github.com/samayine/Leetcode/tree/master/3537-fill-a-special-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/samayine/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/samayine/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/samayine/Leetcode/tree/master/3731-find-missing-elements) |
@@ -551,6 +552,7 @@ leetcode-problem-solving
 | [0215-kth-largest-element-in-an-array](https://github.com/samayine/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/samayine/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/samayine/Leetcode/tree/master/1763-longest-nice-substring) |
+| [3537-fill-a-special-grid](https://github.com/samayine/Leetcode/tree/master/3537-fill-a-special-grid) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/samayine/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -630,6 +632,7 @@ leetcode-problem-solving
 | [2352-equal-row-and-column-pairs](https://github.com/samayine/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samayine/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samayine/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3537-fill-a-special-grid](https://github.com/samayine/Leetcode/tree/master/3537-fill-a-special-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/samayine/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Heap (Priority Queue)
 |  |
