@@ -21,6 +21,7 @@ leetcode-problem-solving
 | [0073-set-matrix-zeroes](https://github.com/samayine/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/samayine/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/samayine/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/samayine/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/samayine/Leetcode/tree/master/0136-single-number) |
@@ -126,6 +127,7 @@ leetcode-problem-solving
 | [0013-roman-to-integer](https://github.com/samayine/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/samayine/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/samayine/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samayine/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/samayine/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -332,6 +334,7 @@ leetcode-problem-solving
 | [0100-same-tree](https://github.com/samayine/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/samayine/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -385,6 +388,7 @@ leetcode-problem-solving
 | [0100-same-tree](https://github.com/samayine/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/samayine/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samayine/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/samayine/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samayine/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -549,6 +553,7 @@ leetcode-problem-solving
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samayine/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/samayine/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samayine/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/samayine/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/samayine/Leetcode/tree/master/0169-majority-element) |
