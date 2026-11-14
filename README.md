@@ -303,6 +303,7 @@ leetcode-problem-solving
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3110-score-of-a-string](https://github.com/samayine/Leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/samayine/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/samayine/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -516,6 +517,7 @@ leetcode-problem-solving
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/samayine/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/samayine/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/samayine/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
 | ------- |
@@ -617,6 +619,7 @@ leetcode-problem-solving
 | [1980-find-unique-binary-string](https://github.com/samayine/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/samayine/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/samayine/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/samayine/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Queue
 |  |
 | ------- |
@@ -673,6 +676,7 @@ leetcode-problem-solving
 | [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2947-count-beautiful-substrings-i](https://github.com/samayine/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/samayine/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
 | ------- |
