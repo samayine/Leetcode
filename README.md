@@ -190,6 +190,7 @@ leetcode-problem-solving
 | [0509-fibonacci-number](https://github.com/samayine/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samayine/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/samayine/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/samayine/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0908-smallest-range-i](https://github.com/samayine/Leetcode/tree/master/0908-smallest-range-i) |
 | [1266-minimum-time-visiting-all-points](https://github.com/samayine/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samayine/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -440,6 +441,7 @@ leetcode-problem-solving
 | [0326-power-of-three](https://github.com/samayine/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/samayine/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/samayine/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2094-finding-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samayine/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -512,6 +514,7 @@ leetcode-problem-solving
 | [0342-power-of-four](https://github.com/samayine/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/samayine/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/samayine/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/samayine/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/samayine/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/samayine/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/samayine/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
